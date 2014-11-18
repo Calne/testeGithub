@@ -1,4 +1,4 @@
-/*Sometimes I Hate When Fuckin'*/
+/*Owner: Calne*/
 
 package tela_calne;
 
